@@ -28,10 +28,3 @@
      alt="7"
      style="float: left; margin-right: 10px;" />
      
-<img src="https://github.com/softMonkeys/8-Point-Algorithm-RANSAC/blob/master/images/0009.jpg"
-     alt="8"
-     style="float: left; margin-right: 10px;" />
-     
-<img src="https://github.com/softMonkeys/8-Point-Algorithm-RANSAC/blob/master/images/0010.jpg"
-     alt="9"
-     style="float: left; margin-right: 10px;" />
